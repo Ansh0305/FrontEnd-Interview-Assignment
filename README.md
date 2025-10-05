@@ -4,6 +4,8 @@ This repository contains the source code for a responsive landing page built as 
 
 ## Figma file
 
+📂 Download FIGMA File here
+
 http://infotechwizard.co.in/figma/figma-file-front-end-interview-1.fig
 
 ## Project Overview
