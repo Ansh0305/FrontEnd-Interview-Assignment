@@ -29,3 +29,24 @@ The landing page presents a resume service with a clean, user-friendly interface
 
 ## Project Structure
 
+├── index.html # Main landing page HTML
+├── style.css # Primary stylesheet with responsive design
+└── utils/ # Folder containing images and assets
+
+## Notes
+
+This project fulfills the requirements for the Infosys Frontend Developer interview assignment. It demonstrates strong frontend development fundamentals suitable for professional web development roles.
+
+## Contribution
+
+This project serves as a completed interview assignment. Contributions are not expected but suggestions and improvements are welcome.
+
+## License
+
+This repository is for personal interview use and is not licensed for commercial or public redistribution.
+
+---
+
+Feel free to customize this README when uploading your project to GitHub.
+
+
