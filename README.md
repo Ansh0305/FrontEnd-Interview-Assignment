@@ -1,33 +1,31 @@
-Infosys Frontend Developer Interview Assignment - Responsive Resume Landing Page
-This repository contains the source code for a responsive landing page designed as part of an interview assignment for the Frontend Developer role at Infosys. It showcases a modern, professional design with a focus on clean UI, user experience, and responsive behavior.
+# Infosys Frontend Developer Interview Assignment - Responsive Resume Landing Page
 
-Project Overview
-Created to demonstrate frontend skills for the Infosys interview process, this landing page highlights key features of a resume service offering. It includes responsive layouts, clear typography, engaging call-to-action buttons, and mobile-friendly navigation.
+This repository contains the source code for a responsive landing page built as part of the Frontend Developer interview assignment for Infosys. The project showcases modern web development skills including responsive design, semantic markup, and clean code practices.
 
-Key Features
-Fully responsive design using CSS Grid and Flexbox for seamless adaptation across devices
+## Project Overview
 
-Mobile hamburger menu toggling for easy navigation on small screens
+The landing page presents a resume service with a clean, user-friendly interface focused on attracting professionals seeking resume packages, cover letters, and interview preparation strategies. It emphasizes clarity, accessibility, and responsiveness.
 
-Professional color scheme with brand-appropriate accent colors
+## Features
 
-Focused sections for resume packages, cover letter styles, and interview preparation services
+- Responsive layout using CSS Grid and Flexbox
+- Mobile-first hamburger menu navigation
+- Clear visual hierarchy and typography with Google Fonts (Poppins)
+- Accent colors and call-to-action buttons to guide user engagement
+- Well-structured semantic HTML5 and modular CSS
 
-Semantic HTML5 markup and modular CSS for maintainability
+## Technologies Used
 
-Technologies Used
-HTML5 and CSS3, including CSS variables and media queries
+- HTML5
+- CSS3 (with CSS custom properties and media queries)
+- JavaScript (menu toggle for mobile)
+- Google Fonts (Poppins)
 
-Google Fonts (Poppins) for typography
+## Getting Started
 
-JavaScript for mobile menu toggle functionality
+1. Clone or download this repository.
+2. Open `index.html` directly in any modern web browser.
+3. Resize the browser window or open on mobile to see responsive behavior.
 
-Usage
-Clone or download the repository
+## Project Structure
 
-Open index.html in a modern web browser to view the landing page
-
-Explore the design responsiveness by resizing the browser window or testing on mobile devices
-
-Notes
-This project was completed as part of the Infosys Frontend Developer interview assignment to showcase capabilities in frontend development, responsive design, and clean code structure.
