@@ -30,7 +30,9 @@ The landing page presents a resume service with a clean, user-friendly interface
 ## Project Structure
 
 ├── index.html # Main landing page HTML
+
 ├── style.css # Primary stylesheet with responsive design
+
 └── utils/ # Folder containing images and assets
 
 ## Notes
