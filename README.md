@@ -2,6 +2,10 @@
 
 This repository contains the source code for a responsive landing page built as part of the Frontend Developer interview assignment for Infosys. The project showcases modern web development skills including responsive design, semantic markup, and clean code practices.
 
+## Figma file
+
+http://infotechwizard.co.in/figma/figma-file-front-end-interview-1.fig
+
 ## Project Overview
 
 The landing page presents a resume service with a clean, user-friendly interface focused on attracting professionals seeking resume packages, cover letters, and interview preparation strategies. It emphasizes clarity, accessibility, and responsiveness.
